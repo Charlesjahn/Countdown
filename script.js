@@ -1,5 +1,5 @@
 // Definir a data de término
-var countDownDate = new Date("Jun 24, 2025 14:10:00 GMT 0000").getTime();
+var countDownDate = new Date("Jul 24, 2025 14:10:00 GMT 0000").getTime();
 
 // Atualizar a contagem regressiva a cada 1 segundo
 var countdownFunction = setInterval(function() {
